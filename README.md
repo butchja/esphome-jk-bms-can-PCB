@@ -6,7 +6,7 @@ Features
 - power supply is compatible to battery voltages now
 
 Materials required
-- MHF3 to RP-SMA breakout cable
+- MHF3 to RP-SMA breakout cable 7cm
 - 2pcs M5 nuts
 - 2pc M5x10 screws
 - 4pcs M3x5 threaded inserts
