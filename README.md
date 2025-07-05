@@ -6,7 +6,9 @@ Features
 - power supply is compatible to battery voltages now
 
 Materials required
-- MHF3 to RP-SMA breakout cable 7cm
+- antenna cable: MHF3 to RP-SMA breakout cable 7cm
+- wifi antenna
+- BMC cable: JST XH 2.5mm - JST SH 1.25mm
 - 2pcs M5 nuts
 - 2pc M5x10 screws
 - 4pcs M3x5 threaded inserts
